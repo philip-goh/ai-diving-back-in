@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Ignore image files
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.ashx
+*.img
+*.webp
